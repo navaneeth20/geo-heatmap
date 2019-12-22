@@ -1,6 +1,6 @@
 # Geo Heatmap
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45404400/63515170-7a9cd280-c4ea-11e9-8875-e693622ac26e.png" alt="screenshot" width="400"></p>
+<p align="center"><img src="https://media.licdn.com/dms/image/C5122AQEN28PwBbiyQg/feedshare-shrink_800/0?e=1579737600&v=beta&t=jEAktTj7KN7mqeX3qW2nygemnYkNY8GRoC4wcskhJN8" alt="screenshot" width="400"></p>
 
 This is a script that generates an interactive geo heatmap from your Google location history data using Python, Folium and OpenStreetMap.
 
